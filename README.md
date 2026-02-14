@@ -1,8 +1,8 @@
-A collection of data analysis and machine learning projects I completed in 2020-2021 as part of the freeCodeCamp curriculum.
+A collection of Python, data analysis & visualization and machine learning projects I completed in 2020-2021 as part of the freeCodeCamp curriculum.
 
 Technologies used:
 
-- Python
+- Python 3
 - NumPy
 - Pandas
 - Matplotlib
